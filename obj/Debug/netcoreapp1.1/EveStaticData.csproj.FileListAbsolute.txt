@@ -1,0 +1,6 @@
+C:\Users\bryce\Google Drive\dotnet\libraries\EveStaticData\bin\Debug\netcoreapp1.1\EveStaticData.deps.json
+C:\Users\bryce\Google Drive\dotnet\libraries\EveStaticData\obj\Debug\netcoreapp1.1\EveStaticData.AssemblyInfo.cs
+C:\Users\bryce\Google Drive\dotnet\libraries\EveStaticData\bin\Debug\netcoreapp1.1\EveStaticData.dll
+C:\Users\bryce\Google Drive\dotnet\libraries\EveStaticData\bin\Debug\netcoreapp1.1\EveStaticData.pdb
+C:\Users\bryce\Google Drive\dotnet\libraries\EveStaticData\obj\Debug\netcoreapp1.1\EveStaticData.dll
+C:\Users\bryce\Google Drive\dotnet\libraries\EveStaticData\obj\Debug\netcoreapp1.1\EveStaticData.pdb
